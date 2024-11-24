@@ -6,7 +6,7 @@ from datetime import datetime
 
 # URL base para el torneo Pioneer Challenge
 url_base = "https://www.mtggoldfish.com"
-search_url_template = "https://www.mtggoldfish.com/tournament_searches/create?utf8=%E2%9C%93&tournament_search%5Bname%5D=Challenge&tournament_search%5Bformat%5D=pioneer&tournament_search%5Bdate_range%5D=10%2F28%2F2024+-+11%2F28%2F2024&commit=Search"
+search_url_template = "https://www.mtggoldfish.com/tournament_searches/create?utf8=%E2%9C%93&tournament_search%5Bname%5D=Challenge&tournament_search%5Bformat%5D=pioneer&tournament_search%5Bdate_range%5D=10%2F29%2F2024+-+11%2F28%2F2024&commit=Search"
 
 # Mapeo de colores para extraer nombres de colores desde 'aria-label'
 color_map = {
@@ -103,7 +103,7 @@ def main():
         
         
     # Guardar los datos en un archivo JSON
-    with open("pioneer_challenges.json", "w") as f:
+    with open("pioneer_challenges_test.json", "w") as f:
         json.dump(all_tournaments, f, indent=4)
     print("Datos guardados en pioneer_challenges.json")
 

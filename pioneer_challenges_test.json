@@ -1,10 +1,19 @@
 [
     {
-        "name": "Pioneer Challenge 64 2024-10-28 (1)",
-        "date": "2024-10-28",
+        "name": "Pioneer Challenge 32 2024-11-22",
+        "date": "2024-11-22",
         "positions": [
             {
                 "place": "1st",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "2nd",
                 "name": "Azorius Humans",
                 "colors": [
                     "white",
@@ -12,15 +21,50 @@
                 ]
             },
             {
-                "place": "2nd",
-                "name": "Rakdos Transmogrify",
+                "place": "3rd",
+                "name": "Boros Prowess",
                 "colors": [
-                    "black",
+                    "white",
                     "red"
                 ]
             },
             {
-                "place": "3rd",
+                "place": "4th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Orzhov Midrange",
+                "colors": [
+                    "white",
+                    "black"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "8th",
                 "name": "Rakdos Midrange",
                 "colors": [
                     "black",
@@ -28,11 +72,253 @@
                 ]
             },
             {
-                "place": "4th",
-                "name": "Orzhov Midrange",
+                "place": "9th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Niv to Light",
                 "colors": [
                     "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Jund Midrange",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
                     "black"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Mardu Greasefang",
+                "colors": [
+                    "white",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Boros Convoke",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Boros Aggro",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "RG",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Grixis Phoenix",
+                "colors": [
+                    "blue",
+                    "black",
+                    "red"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-21",
+        "date": "2024-11-21",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
                 ]
             },
             {
@@ -47,39 +333,42 @@
             },
             {
                 "place": "6th",
-                "name": "Izzet Phoenix",
+                "name": "Orzhov Midrange",
                 "colors": [
-                    "blue",
-                    "red"
+                    "white",
+                    "black"
                 ]
             },
             {
                 "place": "7th",
-                "name": "Izzet Ensoul Artifact",
-                "colors": [
-                    "blue",
-                    "red"
-                ]
-            },
-            {
-                "place": "8th",
-                "name": "Izzet Phoenix",
-                "colors": [
-                    "blue",
-                    "red"
-                ]
-            },
-            {
-                "place": "9th",
-                "name": "Rakdos Prowess",
+                "name": "Rakdos Midrange",
                 "colors": [
                     "black",
                     "red"
                 ]
             },
             {
+                "place": "8th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
                 "place": "10th",
-                "name": "Selesnya Company",
+                "name": "Selesnya Angels",
                 "colors": [
                     "white",
                     "green"
@@ -87,7 +376,7 @@
             },
             {
                 "place": "11th",
-                "name": "Rakdos Prowess",
+                "name": "Rakdos Midrange",
                 "colors": [
                     "black",
                     "red"
@@ -106,11 +395,10 @@
             },
             {
                 "place": "13th",
-                "name": "Grixis Indomitable Creativity",
+                "name": "Gruul Aggro",
                 "colors": [
-                    "blue",
-                    "black",
-                    "red"
+                    "red",
+                    "green"
                 ]
             },
             {
@@ -123,7 +411,7 @@
             },
             {
                 "place": "15th",
-                "name": "Rakdos Prowess",
+                "name": "Rakdos Midrange",
                 "colors": [
                     "black",
                     "red"
@@ -131,34 +419,38 @@
             },
             {
                 "place": "16th",
-                "name": "Mardu Greasefang",
+                "name": "Niv to Light",
                 "colors": [
                     "white",
+                    "blue",
                     "black",
-                    "red"
+                    "red",
+                    "green"
                 ]
             },
             {
                 "place": "17th",
-                "name": "Rakdos Prowess",
+                "name": "Mono-White Token Control",
                 "colors": [
-                    "black",
-                    "red"
+                    "white"
                 ]
             },
             {
                 "place": "18th",
-                "name": "Izzet Phoenix",
+                "name": "Niv to Light",
                 "colors": [
+                    "white",
                     "blue",
-                    "red"
+                    "black",
+                    "red",
+                    "green"
                 ]
             },
             {
                 "place": "19th",
-                "name": "Rakdos Prowess",
+                "name": "Izzet Phoenix",
                 "colors": [
-                    "black",
+                    "blue",
                     "red"
                 ]
             },
@@ -172,9 +464,1420 @@
             },
             {
                 "place": "21st",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-19 (1)",
+        "date": "2024-11-19",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Boros Convoke",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Azorius Humans",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-19",
+        "date": "2024-11-19",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Boros Convoke",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Azorius Humans",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-17 (1)",
+        "date": "2024-11-17",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Boros Aggro",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Boros Convoke",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Azorius Control",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Azorius Control",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "20th",
                 "name": "Mardu Greasefang",
                 "colors": [
                     "white",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-17",
+        "date": "2024-11-17",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Boros Aggro",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Boros Convoke",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Azorius Control",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Azorius Control",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Mardu Greasefang",
+                "colors": [
+                    "white",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-15 (1)",
+        "date": "2024-11-15",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Mono-White Token Control",
+                "colors": [
+                    "white"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Mardu Greasefang",
+                "colors": [
+                    "white",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Rakdos Midrange",
+                "colors": [
                     "black",
                     "red"
                 ]
@@ -189,7 +1892,7 @@
             },
             {
                 "place": "23rd",
-                "name": "Rakdos Tree",
+                "name": "Rakdos Midrange",
                 "colors": [
                     "black",
                     "red"
@@ -197,27 +1900,28 @@
             },
             {
                 "place": "24th",
-                "name": "Izzet Phoenix",
-                "colors": [
-                    "blue",
-                    "red"
-                ]
-            },
-            {
-                "place": "25th",
-                "name": "Azorius Humans",
-                "colors": [
-                    "white",
-                    "blue"
-                ]
-            },
-            {
-                "place": "26th",
-                "name": "WUBG",
+                "name": "Niv to Light",
                 "colors": [
                     "white",
                     "blue",
                     "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
                     "green"
                 ]
             },
@@ -231,83 +1935,36 @@
             },
             {
                 "place": "28th",
-                "name": "Izzet Phoenix",
+                "name": "Rakdos Midrange",
                 "colors": [
-                    "blue",
+                    "black",
                     "red"
                 ]
             },
             {
                 "place": "29th",
-                "name": "Izzet Phoenix",
+                "name": "5c Enigmatic Incarnation",
                 "colors": [
+                    "white",
                     "blue",
-                    "red"
+                    "black",
+                    "red",
+                    "green"
                 ]
             },
             {
                 "place": "30th",
-                "name": "Gruul Aggro",
+                "name": "Hidden Strings",
                 "colors": [
+                    "white",
+                    "blue",
+                    "black",
                     "red",
                     "green"
                 ]
             },
             {
                 "place": "31st",
-                "name": "Rakdos Midrange",
-                "colors": [
-                    "black",
-                    "red"
-                ]
-            },
-            {
-                "place": "32nd",
-                "name": "Mono-Black Discard",
-                "colors": [
-                    "black"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Pioneer Challenge 32 2024-10-28 (1)",
-        "date": "2024-10-28",
-        "positions": [
-            {
-                "place": "1st",
-                "name": "Rakdos Midrange",
-                "colors": [
-                    "black",
-                    "red"
-                ]
-            },
-            {
-                "place": "2nd",
-                "name": "Rakdos Prowess",
-                "colors": [
-                    "black",
-                    "red"
-                ]
-            },
-            {
-                "place": "3rd",
-                "name": "Rakdos Prowess",
-                "colors": [
-                    "black",
-                    "red"
-                ]
-            },
-            {
-                "place": "4th",
-                "name": "Dimir Aggro",
-                "colors": [
-                    "blue",
-                    "black"
-                ]
-            },
-            {
-                "place": "5th",
                 "name": "Gruul Aggro",
                 "colors": [
                     "red",
@@ -315,11 +1972,75 @@
                 ]
             },
             {
-                "place": "6th",
-                "name": "Rakdos Prowess",
+                "place": "32nd",
+                "name": "Azorius Flash",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-15",
+        "date": "2024-11-15",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Azorius Control",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Rakdos Midrange",
                 "colors": [
                     "black",
                     "red"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Jund Midrange",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
                 ]
             },
             {
@@ -332,10 +2053,560 @@
             },
             {
                 "place": "8th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Jund Midrange",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Azorius Flash",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Golgari Food",
+                "colors": [
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Jund Midrange",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Jund Midrange",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Golgari Food",
+                "colors": [
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Izzet Ensoul Artifact",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Izzet Ensoul Artifact",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-14",
+        "date": "2024-11-14",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Jund Midrange",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Rakdos Tree",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Mono-Red Aggro",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Azorius Humans",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Gruul Prowess",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Boros Aggro",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Azorius Control",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Gruul Prowess",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 64 2024-11-12",
+        "date": "2024-11-12",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
                 "name": "Rakdos Prowess",
                 "colors": [
                     "black",
                     "red"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
                 ]
             },
             {
@@ -351,6 +2622,22 @@
             },
             {
                 "place": "10th",
+                "name": "Boros Aggro",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "12th",
                 "name": "Rakdos Prowess",
                 "colors": [
                     "black",
@@ -358,15 +2645,7 @@
                 ]
             },
             {
-                "place": "11th",
-                "name": "Izzet Phoenix",
-                "colors": [
-                    "blue",
-                    "red"
-                ]
-            },
-            {
-                "place": "12th",
+                "place": "13th",
                 "name": "WUBG",
                 "colors": [
                     "white",
@@ -376,31 +2655,27 @@
                 ]
             },
             {
-                "place": "13th",
-                "name": "Rakdos Midrange",
-                "colors": [
-                    "black",
-                    "red"
-                ]
-            },
-            {
                 "place": "14th",
-                "name": "Rakdos Aggro",
+                "name": "5c Enigmatic Incarnation",
                 "colors": [
+                    "white",
+                    "blue",
                     "black",
-                    "red"
+                    "red",
+                    "green"
                 ]
             },
             {
                 "place": "15th",
-                "name": "Mono-Black Midrange",
+                "name": "Gruul Prowess",
                 "colors": [
-                    "black"
+                    "red",
+                    "green"
                 ]
             },
             {
                 "place": "16th",
-                "name": "Rakdos Prowess",
+                "name": "Rakdos Tree",
                 "colors": [
                     "black",
                     "red"
@@ -408,61 +2683,59 @@
             },
             {
                 "place": "17th",
-                "name": "Izzet Phoenix",
+                "name": "Jund Sacrifice",
                 "colors": [
-                    "blue",
-                    "red"
-                ]
-            },
-            {
-                "place": "18th",
-                "name": "Selesnya Company",
-                "colors": [
-                    "white",
-                    "green"
-                ]
-            },
-            {
-                "place": "19th",
-                "name": "Hidden Strings",
-                "colors": [
-                    "white",
-                    "blue",
+                    "black",
                     "red",
                     "green"
                 ]
             },
             {
-                "place": "20th",
-                "name": "WUBG",
+                "place": "18th",
+                "name": "Izzet Phoenix",
                 "colors": [
-                    "white",
                     "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
                     "black",
-                    "green"
+                    "red"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
                 ]
             },
             {
                 "place": "21st",
-                "name": "Rakdos Prowess",
+                "name": "Boros Aggro",
                 "colors": [
-                    "black",
+                    "white",
                     "red"
                 ]
             },
             {
                 "place": "22nd",
-                "name": "Izzet Phoenix",
+                "name": "Rakdos Midrange",
                 "colors": [
-                    "blue",
+                    "black",
                     "red"
                 ]
             },
             {
                 "place": "23rd",
-                "name": "Izzet Phoenix",
+                "name": "Mardu Greasefang",
                 "colors": [
-                    "blue",
+                    "white",
+                    "black",
                     "red"
                 ]
             },
@@ -476,9 +2749,284 @@
             },
             {
                 "place": "25th",
-                "name": "UG",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Izzet Phoenix",
                 "colors": [
                     "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-12",
+        "date": "2024-11-12",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Rakdos Tree",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Jund Midrange",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Rakdos Tree",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Golgari Food",
+                "colors": [
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Golgari Food",
+                "colors": [
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Esper Control",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
                     "green"
                 ]
             },
@@ -492,10 +3040,543 @@
             },
             {
                 "place": "27th",
+                "name": "Azorius Lotus Field",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "28th",
                 "name": "Selesnya Company",
                 "colors": [
                     "white",
                     "green"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "4c Rona Combo",
+                "colors": [
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "WG",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Mono-Black Midrange",
+                "colors": [
+                    "black"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 64 2024-11-10",
+        "date": "2024-11-10",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Golgari Food",
+                "colors": [
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Boros Burn",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Mono-Black Midrange",
+                "colors": [
+                    "black"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Azorius Control",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Golgari Food",
+                "colors": [
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "BRG",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Gruul Prowess",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Mardu Greasefang",
+                "colors": [
+                    "white",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Golgari Food",
+                "colors": [
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Golgari Food",
+                "colors": [
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Rakdos Aggro",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-10",
+        "date": "2024-11-10",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Jund Midrange",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Golgari Food",
+                "colors": [
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Golgari Food",
+                "colors": [
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Azorius Control",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Azorius Control",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Boros Prowess",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Rakdos Tree",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
                 ]
             },
             {
@@ -511,15 +3592,15 @@
             },
             {
                 "place": "29th",
-                "name": "Rakdos Prowess",
+                "name": "Dimir Aggro",
                 "colors": [
-                    "black",
-                    "red"
+                    "blue",
+                    "black"
                 ]
             },
             {
                 "place": "30th",
-                "name": "Rakdos Midrange",
+                "name": "Rakdos Prowess",
                 "colors": [
                     "black",
                     "red"
@@ -535,35 +3616,199 @@
             },
             {
                 "place": "32nd",
-                "name": "Mono-White Humans",
+                "name": "Quintorius Combo",
                 "colors": [
-                    "white"
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
                 ]
             }
         ]
     },
     {
-        "name": "Pioneer Challenge 64 2024-10-28",
-        "date": "2024-10-28",
+        "name": "Pioneer Challenge 64 2024-11-09",
+        "date": "2024-11-09",
         "positions": [
             {
                 "place": "1st",
-                "name": "Azorius Humans",
-                "colors": [
-                    "white",
-                    "blue"
-                ]
-            },
-            {
-                "place": "2nd",
-                "name": "Rakdos Transmogrify",
+                "name": "Rakdos Tree",
                 "colors": [
                     "black",
                     "red"
                 ]
             },
             {
+                "place": "2nd",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
                 "place": "3rd",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Azorius Control",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "UG",
+                "colors": [
+                    "blue",
+                    "green"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Azorius Lotus Field",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Golgari Food",
+                "colors": [
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "22nd",
                 "name": "Rakdos Midrange",
                 "colors": [
                     "black",
@@ -571,11 +3816,670 @@
                 ]
             },
             {
-                "place": "4th",
-                "name": "Orzhov Midrange",
+                "place": "23rd",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Golgari Midrange",
+                "colors": [
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Selesnya Company",
                 "colors": [
                     "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-08 (1)",
+        "date": "2024-11-08",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Azorius Lotus Field",
+                "colors": [
+                    "white",
+                    "blue",
                     "black"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Rakdos Aggro",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Mono-Red Aggro",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Mono-Black Midrange",
+                "colors": [
+                    "black"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-08 (1)",
+        "date": "2024-11-08",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Azorius Lotus Field",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Rakdos Aggro",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Mono-Red Aggro",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Mono-Black Midrange",
+                "colors": [
+                    "black"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-08",
+        "date": "2024-11-08",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
                 ]
             },
             {
@@ -590,6 +4494,121 @@
             },
             {
                 "place": "6th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Jund Midrange",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "20th",
                 "name": "Izzet Phoenix",
                 "colors": [
                     "blue",
@@ -597,7 +4616,279 @@
                 ]
             },
             {
+                "place": "21st",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Rakdos Aggro",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Azorius Control",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 64 2024-11-05 (1)",
+        "date": "2024-11-05",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Rakdos Aggro",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Rakdos Aggro",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
                 "place": "7th",
+                "name": "Mardu Greasefang",
+                "colors": [
+                    "white",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Gruul Prowess",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Gruul Prowess",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Mono-Black Midrange",
+                "colors": [
+                    "black"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Orzhov Midrange",
+                "colors": [
+                    "white",
+                    "black"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "20th",
                 "name": "Izzet Ensoul Artifact",
                 "colors": [
                     "blue",
@@ -605,10 +4896,718 @@
                 ]
             },
             {
-                "place": "8th",
+                "place": "21st",
+                "name": "Mono-Black Midrange",
+                "colors": [
+                    "black"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "25th",
                 "name": "Izzet Phoenix",
                 "colors": [
                     "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Azorius Flash",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Azorius Flash",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 64 2024-11-05",
+        "date": "2024-11-05",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Rakdos Aggro",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Niv to Light",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Rakdos Aggro",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Mardu Greasefang",
+                "colors": [
+                    "white",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Gruul Prowess",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Gruul Prowess",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Mono-Black Midrange",
+                "colors": [
+                    "black"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Orzhov Midrange",
+                "colors": [
+                    "white",
+                    "black"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Izzet Ensoul Artifact",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Mono-Black Midrange",
+                "colors": [
+                    "black"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Azorius Flash",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Azorius Flash",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-05",
+        "date": "2024-11-05",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "5c Enigmatic Incarnation",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Rakdos Aggro",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Orzhov Midrange",
+                "colors": [
+                    "white",
+                    "black"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Boros Convoke",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Gruul Prowess",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Orzhov Midrange",
+                "colors": [
+                    "white",
+                    "black"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Abzan Elves",
+                "colors": [
+                    "white",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Gruul Prowess",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 64 2024-11-03",
+        "date": "2024-11-03",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Mardu Greasefang",
+                "colors": [
+                    "white",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
                     "red"
                 ]
             },
@@ -622,14 +5621,23 @@
             },
             {
                 "place": "10th",
-                "name": "Selesnya Company",
+                "name": "Hidden Strings",
                 "colors": [
                     "white",
+                    "blue",
+                    "red",
                     "green"
                 ]
             },
             {
                 "place": "11th",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "12th",
                 "name": "Rakdos Prowess",
                 "colors": [
                     "black",
@@ -637,14 +5645,282 @@
                 ]
             },
             {
-                "place": "12th",
-                "name": "5c Enigmatic Incarnation",
+                "place": "13th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Rakdos Aggro",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Azorius Control",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Niv to Light",
                 "colors": [
                     "white",
                     "blue",
                     "black",
                     "red",
                     "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "red",
+                    "green"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-03",
+        "date": "2024-11-03",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Rakdos Aggro",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Gwenna Acererak Combo",
+                "colors": [
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
                 ]
             },
             {
@@ -658,26 +5934,26 @@
             },
             {
                 "place": "14th",
-                "name": "Azorius Flash",
+                "name": "Gwenna Acererak Combo",
                 "colors": [
-                    "white",
-                    "blue"
+                    "blue",
+                    "black",
+                    "green"
                 ]
             },
             {
                 "place": "15th",
-                "name": "Rakdos Prowess",
+                "name": "Izzet Phoenix",
                 "colors": [
-                    "black",
+                    "blue",
                     "red"
                 ]
             },
             {
                 "place": "16th",
-                "name": "Mardu Greasefang",
+                "name": "Izzet Phoenix",
                 "colors": [
-                    "white",
-                    "black",
+                    "blue",
                     "red"
                 ]
             },
@@ -699,63 +5975,6 @@
             },
             {
                 "place": "19th",
-                "name": "Rakdos Prowess",
-                "colors": [
-                    "black",
-                    "red"
-                ]
-            },
-            {
-                "place": "20th",
-                "name": "Rakdos Prowess",
-                "colors": [
-                    "black",
-                    "red"
-                ]
-            },
-            {
-                "place": "21st",
-                "name": "Mardu Greasefang",
-                "colors": [
-                    "white",
-                    "black",
-                    "red"
-                ]
-            },
-            {
-                "place": "22nd",
-                "name": "Selesnya Company",
-                "colors": [
-                    "white",
-                    "green"
-                ]
-            },
-            {
-                "place": "23rd",
-                "name": "Rakdos Tree",
-                "colors": [
-                    "black",
-                    "red"
-                ]
-            },
-            {
-                "place": "24th",
-                "name": "Izzet Phoenix",
-                "colors": [
-                    "blue",
-                    "red"
-                ]
-            },
-            {
-                "place": "25th",
-                "name": "Azorius Humans",
-                "colors": [
-                    "white",
-                    "blue"
-                ]
-            },
-            {
-                "place": "26th",
                 "name": "WUBG",
                 "colors": [
                     "white",
@@ -765,18 +5984,81 @@
                 ]
             },
             {
-                "place": "27th",
-                "name": "Izzet Phoenix",
+                "place": "20th",
+                "name": "WUBG",
                 "colors": [
+                    "white",
                     "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Gruul Prowess",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Mono-Red Aggro",
+                "colors": [
                     "red"
                 ]
             },
             {
-                "place": "28th",
-                "name": "Izzet Phoenix",
+                "place": "25th",
+                "name": "Azorius Lotus Field",
                 "colors": [
+                    "white",
                     "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
                     "red"
                 ]
             },
@@ -790,10 +6072,10 @@
             },
             {
                 "place": "30th",
-                "name": "Gruul Aggro",
+                "name": "Rakdos Prowess",
                 "colors": [
-                    "red",
-                    "green"
+                    "black",
+                    "red"
                 ]
             },
             {
@@ -806,22 +6088,23 @@
             },
             {
                 "place": "32nd",
-                "name": "Mono-Black Discard",
+                "name": "Rakdos Midrange",
                 "colors": [
-                    "black"
+                    "black",
+                    "red"
                 ]
             }
         ]
     },
     {
-        "name": "Pioneer Challenge 32 2024-10-28",
-        "date": "2024-10-28",
+        "name": "Pioneer Challenge 64 2024-11-02",
+        "date": "2024-11-02",
         "positions": [
             {
                 "place": "1st",
-                "name": "Rakdos Midrange",
+                "name": "Izzet Phoenix",
                 "colors": [
-                    "black",
+                    "blue",
                     "red"
                 ]
             },
@@ -835,38 +6118,6 @@
             },
             {
                 "place": "3rd",
-                "name": "Rakdos Prowess",
-                "colors": [
-                    "black",
-                    "red"
-                ]
-            },
-            {
-                "place": "4th",
-                "name": "Dimir Aggro",
-                "colors": [
-                    "blue",
-                    "black"
-                ]
-            },
-            {
-                "place": "5th",
-                "name": "Gruul Aggro",
-                "colors": [
-                    "red",
-                    "green"
-                ]
-            },
-            {
-                "place": "6th",
-                "name": "Rakdos Prowess",
-                "colors": [
-                    "black",
-                    "red"
-                ]
-            },
-            {
-                "place": "7th",
                 "name": "Rakdos Midrange",
                 "colors": [
                     "black",
@@ -874,34 +6125,7 @@
                 ]
             },
             {
-                "place": "8th",
-                "name": "Rakdos Prowess",
-                "colors": [
-                    "black",
-                    "red"
-                ]
-            },
-            {
-                "place": "9th",
-                "name": "5c Enigmatic Incarnation",
-                "colors": [
-                    "white",
-                    "blue",
-                    "black",
-                    "red",
-                    "green"
-                ]
-            },
-            {
-                "place": "10th",
-                "name": "Rakdos Prowess",
-                "colors": [
-                    "black",
-                    "red"
-                ]
-            },
-            {
-                "place": "11th",
+                "place": "4th",
                 "name": "Izzet Phoenix",
                 "colors": [
                     "blue",
@@ -909,7 +6133,198 @@
                 ]
             },
             {
+                "place": "5th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Azorius Flash",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "U",
+                "colors": [
+                    "blue"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Azorius Flash",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Grixis Indomitable Creativity",
+                "colors": [
+                    "blue",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
                 "place": "12th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Mardu Greasefang",
+                "colors": [
+                    "white",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Mardu Greasefang",
+                "colors": [
+                    "white",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Orzhov Token Control",
+                "colors": [
+                    "white",
+                    "black"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Mardu Greasefang",
+                "colors": [
+                    "white",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "28th",
                 "name": "WUBG",
                 "colors": [
                     "white",
@@ -919,7 +6334,7 @@
                 ]
             },
             {
-                "place": "13th",
+                "place": "29th",
                 "name": "Rakdos Midrange",
                 "colors": [
                     "black",
@@ -927,25 +6342,167 @@
                 ]
             },
             {
-                "place": "14th",
-                "name": "Rakdos Aggro",
+                "place": "30th",
+                "name": "Mardu Greasefang",
+                "colors": [
+                    "white",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-01 (1)",
+        "date": "2024-11-01",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Rakdos Midrange",
                 "colors": [
                     "black",
                     "red"
                 ]
             },
             {
-                "place": "15th",
-                "name": "Mono-Black Midrange",
+                "place": "5th",
+                "name": "Rakdos Midrange",
                 "colors": [
-                    "black"
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Gruul Aggro",
+                "colors": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Selesnya Angels",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Rakdos Transmogrify",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
                 ]
             },
             {
                 "place": "16th",
-                "name": "Rakdos Prowess",
+                "name": "Izzet Phoenix",
                 "colors": [
-                    "black",
+                    "blue",
                     "red"
                 ]
             },
@@ -967,6 +6524,171 @@
             },
             {
                 "place": "19th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Mono-Black Midrange",
+                "colors": [
+                    "black"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "Rakdos Aggro",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Boros Heroic",
+                "colors": [
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Rakdos Aggro",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "U",
+                "colors": [
+                    "blue"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 32 2024-11-01",
+        "date": "2024-11-01",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Mono-Red Prowess",
+                "colors": [
+                    "red"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Azorius Control",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "blue",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Jund Sacrifice",
+                "colors": [
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "7th",
                 "name": "Hidden Strings",
                 "colors": [
                     "white",
@@ -976,13 +6698,105 @@
                 ]
             },
             {
-                "place": "20th",
-                "name": "WUBG",
+                "place": "8th",
+                "name": "Selesnya Company",
                 "colors": [
                     "white",
-                    "blue",
-                    "black",
                     "green"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Orzhov Midrange",
+                "colors": [
+                    "white",
+                    "black"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "12th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "13th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Mono-Black Midrange",
+                "colors": [
+                    "black"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "16th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Rakdos Aggro",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Nykthos Ramp",
+                "colors": [
+                    "green"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
                 ]
             },
             {
@@ -1003,30 +6817,51 @@
             },
             {
                 "place": "23rd",
-                "name": "Izzet Phoenix",
+                "name": "Hidden Strings",
                 "colors": [
+                    "white",
                     "blue",
-                    "red"
+                    "red",
+                    "green"
                 ]
             },
             {
                 "place": "24th",
-                "name": "Izzet Phoenix",
+                "name": "Rakdos Prowess",
                 "colors": [
-                    "blue",
+                    "black",
                     "red"
                 ]
             },
             {
                 "place": "25th",
-                "name": "UG",
+                "name": "Hidden Strings",
                 "colors": [
+                    "white",
                     "blue",
+                    "red",
                     "green"
                 ]
             },
             {
                 "place": "26th",
+                "name": "Mardu Greasefang",
+                "colors": [
+                    "white",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Izzet Ensoul Artifact",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "28th",
                 "name": "Rakdos Midrange",
                 "colors": [
                     "black",
@@ -1034,16 +6869,8 @@
                 ]
             },
             {
-                "place": "27th",
-                "name": "Selesnya Company",
-                "colors": [
-                    "white",
-                    "green"
-                ]
-            },
-            {
-                "place": "28th",
-                "name": "Niv to Light",
+                "place": "29th",
+                "name": "Hidden Strings",
                 "colors": [
                     "white",
                     "blue",
@@ -1053,7 +6880,134 @@
                 ]
             },
             {
-                "place": "29th",
+                "place": "30th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "31st",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "32nd",
+                "name": "Mardu Greasefang",
+                "colors": [
+                    "white",
+                    "black",
+                    "red"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pioneer Challenge 64 2024-10-31",
+        "date": "2024-10-31",
+        "positions": [
+            {
+                "place": "1st",
+                "name": "Azorius Control",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "2nd",
+                "name": "Hidden Strings",
+                "colors": [
+                    "blue",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "3rd",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "4th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "5th",
+                "name": "Azorius Lotus Field",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "6th",
+                "name": "4c Midrange",
+                "colors": [
+                    "white",
+                    "blue",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "7th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "8th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "9th",
+                "name": "Dimir Aggro",
+                "colors": [
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "10th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "11th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "12th",
                 "name": "Rakdos Prowess",
                 "colors": [
                     "black",
@@ -1061,26 +7015,168 @@
                 ]
             },
             {
-                "place": "30th",
+                "place": "13th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "14th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "15th",
+                "name": "Azorius Flash",
+                "colors": [
+                    "white",
+                    "blue"
+                ]
+            },
+            {
+                "place": "16th",
                 "name": "Rakdos Midrange",
                 "colors": [
                     "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "17th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "18th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "19th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "20th",
+                "name": "Hidden Strings",
+                "colors": [
+                    "white",
+                    "blue",
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "place": "21st",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "22nd",
+                "name": "Azorius Lotus Field",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black"
+                ]
+            },
+            {
+                "place": "23rd",
+                "name": "WUBG",
+                "colors": [
+                    "white",
+                    "blue",
+                    "black",
+                    "green"
+                ]
+            },
+            {
+                "place": "24th",
+                "name": "Mardu Greasefang",
+                "colors": [
+                    "white",
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "25th",
+                "name": "Selesnya Company",
+                "colors": [
+                    "white",
+                    "green"
+                ]
+            },
+            {
+                "place": "26th",
+                "name": "Mono-Black Midrange",
+                "colors": [
+                    "black"
+                ]
+            },
+            {
+                "place": "27th",
+                "name": "Rakdos Prowess",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "28th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
+                    "red"
+                ]
+            },
+            {
+                "place": "29th",
+                "name": "Rakdos Midrange",
+                "colors": [
+                    "black",
+                    "red"
+                ]
+            },
+            {
+                "place": "30th",
+                "name": "Izzet Phoenix",
+                "colors": [
+                    "blue",
                     "red"
                 ]
             },
             {
                 "place": "31st",
-                "name": "Rakdos Midrange",
+                "name": "Izzet Phoenix",
                 "colors": [
-                    "black",
+                    "blue",
                     "red"
                 ]
             },
             {
                 "place": "32nd",
-                "name": "Mono-White Humans",
+                "name": "Izzet Phoenix",
                 "colors": [
-                    "white"
+                    "blue",
+                    "red"
                 ]
             }
         ]
